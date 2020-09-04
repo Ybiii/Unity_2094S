@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Shader Forge_hologramSF1
+  m_Shader: {fileID: 4800000, guid: 8b75dac1323014b4e97503e83704a6c4, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 1
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 3000
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _node_3943:
+        m_Texture: {fileID: 2800000, guid: edc46c3fc6a40254ca805304e82d67a1, type: 3}
+        m_Scale: {x: 1, y: 2}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Cutoff: 0.5
+    - _Gloss: 0.8
+    - _Metallic: 0
+    - _node_2566: 1
+    - _node_4896: 3
+    - _node_7641: 3.2
+    m_Colors:
+    - _Color: {r: 0.107794166, g: 1, b: 0, a: 1}
+    - _node_5067: {r: 1, g: 0.087764196, b: 0, a: 1}
